@@ -5,9 +5,7 @@ Beverge line production PLC and HMI
 </h2>
 
 [![video](Documentation/images/scada.jpg)](https://youtu.be/SwEcEuaT_Us)
-
-
-
+If you want watch how it works, clik on the scren.
 
 ## Table of Contents
 - [Gneral Info](#genral-info)
@@ -42,14 +40,11 @@ This is project tree. We can see all blocks, tags.
 ## Code snipped
 <p align="center">
   <img src="/Documentation/images/main.jpg">
-</p>
-This is code in main block.
-
+</p>This is code in main block.
 
 <p align="center">
   <img src="/Documentation/images/zakrecarka.jpg">
-</p>
-This is snipped code of capping machine.
+</p>This is snipped code of capping machine.
 
 ## HMI Tree
 <p align="center">
