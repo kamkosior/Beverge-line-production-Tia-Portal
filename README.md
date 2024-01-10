@@ -52,12 +52,6 @@ This is project tree. We can see all blocks, tags.
 </p>
 It is HMI tree. We can see all screens used in this project.
 
-## Main Screen
-<p align="center">
-  <img src="/Documentation/images/scada.jpg">
-</p>
-It's a main screen of SCADA system used in this project.
-
 
 
 
