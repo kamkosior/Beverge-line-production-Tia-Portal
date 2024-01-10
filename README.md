@@ -1,8 +1,14 @@
 # Beverge-line-production-Tia-Portal
 
- Beverge line production 
- PLC and HMI
-![video](Documentation/video/video.mp4)
+ <h2 align="center">
+Beverge line production PLC and HMI
+</h2>
+
+
+<p align="center">
+  <img src="/Documentation/video/video.mp4">
+</p>
+
 
 
 ## Table of Contents
@@ -15,7 +21,7 @@
   - [Main Screen](#mainscreen)
 
 ## General Info
-This is easy project, which show us service of beverge line production from the HMI Panel and visualisation on it. The project have many station: labeling and filling machine, packing, capping machine and conveyor belt. In each station is it possible to change parameters and set it.
+This is easy project, which show us service of beverge line production from the HMI Panel and visualisation on it. The project have many station: labeling and filling machine, packing, capping machine and conveyor belt. In each station is it possible to change parameters and set it. I focused on visualisation process in HMI Panel.
 
 ## Technologies
 - Tia Portal V16
