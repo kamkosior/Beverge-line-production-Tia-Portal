@@ -6,7 +6,7 @@ Beverge line production PLC and HMI
 
 [![video](Documentation/images/scada.jpg)](https://youtu.be/SwEcEuaT_Us)
 
-If you want watch how it works, clik on the scren.
+If you want watch how it works, clik on the screen.
 
 ## Table of Contents
 - [Gneral Info](#genral-info)
