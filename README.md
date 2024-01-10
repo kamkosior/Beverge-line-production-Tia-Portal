@@ -4,7 +4,9 @@
 Beverge line production PLC and HMI
 </h2>
 
-[Video](https://youtu.be/SwEcEuaT_Us)
+[![video](https://img.youtube.com/vi/ID_Filmu/0.jpg)](https://youtu.be/SwEcEuaT_Us)
+
+
 
 ## Table of Contents
 - [Gneral Info](#genral-info)
