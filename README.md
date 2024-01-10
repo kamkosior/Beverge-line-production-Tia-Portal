@@ -4,9 +4,7 @@
 Beverge line production PLC and HMI
 </h2>
 
-<br />
-	<a href="[https://plc-programme-viewer.000webhostapp.com/sbw](https://youtu.be/SwEcEuaT_Us)">View demo</a>
-
+[Video](https://youtu.be/SwEcEuaT_Us)
 
 ## Table of Contents
 - [Gneral Info](#genral-info)
