@@ -31,7 +31,11 @@ This is easy project, which show us service of beverge line production from the 
 - Packing - time of packing by robot
 
 ## Project Tree
-![drzewko](Documentation/images/drzewko.JPG)
+<p align="center">
+  <img src="/Documentation/images/drzewko.JPG">
+</p>
+
+
 This is project tree. We can see all blocks, tags.
 
 ## Code snipped
