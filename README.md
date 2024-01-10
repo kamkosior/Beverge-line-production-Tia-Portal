@@ -34,23 +34,30 @@ This is easy project, which show us service of beverge line production from the 
 <p align="center">
   <img src="/Documentation/images/drzewko.JPG">
 </p>
-
-
 This is project tree. We can see all blocks, tags.
 
 ## Code snipped
-![main](Documentation/images/main.jpg)
+<p align="center">
+  <img src="/Documentation/images/main.jpg">
+</p>
 This is code in main block.
 
-![zakrecarka](Documentation/images/zakrecarka.jpg)
+
+<p align="center">
+  <img src="/Documentation/images/zakrecarka.jpg">
+</p>
 This is snipped code of capping machine.
 
 ## HMI Tree
-![HMI](Documentation/images/hmi.JPG)
+<p align="center">
+  <img src="/Documentation/images/hmi.JPG">
+</p>
 It is HMI tree. We can see all screens used in this project.
 
 ## Main Screen
-![scada](Documentation/images/scada.jpg)
+<p align="center">
+  <img src="/Documentation/images/scada.jpg">
+</p>
 It's a main screen of SCADA system used in this project.
 
 
