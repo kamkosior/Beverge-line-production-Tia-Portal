@@ -12,13 +12,13 @@ Beverge line production PLC and HMI
 
 
 ## Table of Contents
-- [Gneral Info](#genralinfo)
+- [Gneral Info](#genral-info)
 - [Technologies](#technologies)
-- [About the Project](#abouttheproject)
-  - [Project Tree](#projecttree)
-  - [Code snipped](#codesnipped)
-  - [HMI Tree](#hmitree)
-  - [Main Screen](#mainscreen)
+- [About the Project](#about-the-project)
+  - [Project Tree](#project-tree)
+  - [Code snipped](#code-snipped)
+  - [HMI Tree](#hmi-tree)
+  - [Main Screen](#main-screen)
 
 ## General Info
 This is easy project, which show us service of beverge line production from the HMI Panel and visualisation on it. The project have many station: labeling and filling machine, packing, capping machine and conveyor belt. In each station is it possible to change parameters and set it. I focused on visualisation process in HMI Panel.
