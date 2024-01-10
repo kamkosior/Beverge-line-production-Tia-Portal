@@ -9,12 +9,12 @@
 - [Gneral Info](#genralinfo)
 - [Technologies](#technologies)
 - [About the Project](#abouttheproject)
--[Project Tree](#projecttree)
--[Code snipped](#codesnipped)
--[HMI Tree](#hmitree)
--[Main Screen](#mainscreen)
+- [Project Tree](#projecttree)
+- [Code snipped](#codesnipped)
+- [HMI Tree](#hmitree)
+- [Main Screen](#mainscreen)
 
-##Project Tree
+## Project Tree
 ![drzewko](Documentation/images/drzewko.JPG)
 
 
